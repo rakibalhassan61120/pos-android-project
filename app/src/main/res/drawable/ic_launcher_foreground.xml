@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Hanger + Shopping Bag silhouette in gold -->
+    <path
+        android:fillColor="#F58220"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M 54 22 C 57.5 22 57.5 16 54 16 C 50.5 16 50.5 22 54 22 Z M 54 22 L 54 28 L 30 38 L 78 38 Z M 32 40 L 76 40 L 80 84 L 28 84 Z M 44 48 L 44 76 M 64 48 L 64 76 M 44 54 H 64 M 44 68 H 64" />
+</vector>

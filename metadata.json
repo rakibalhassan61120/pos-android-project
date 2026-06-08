@@ -1,0 +1,6 @@
+{
+  "name": "Amar Clothing POS",
+  "description": "A smart, modern clothing shop Point-of-Sale (POS) system with Owner & Salesman portals, dual-language support, analytical reports, simulated printing, inventory management, and bKash/Nagad/Rocket payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
